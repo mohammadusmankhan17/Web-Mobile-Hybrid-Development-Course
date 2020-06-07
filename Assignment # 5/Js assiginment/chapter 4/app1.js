@@ -1,0 +1,5 @@
+document.write("Task 1 chapter 4"+"<br>")
+document.write("Declclaring three varables in one statement"+"<br>var variable1,variable2,variable3;"+"<br><br>")
+document.write("Task 2 chapter 4"+"<br>")
+document.write("Five leagal Varables names: userResponse,$_,userResponseTimeLimit,response,_$"+"<br>")
+document.write("Five illegal varables names: 1st_var,^var,#var,2var,*var"+"<br>")
