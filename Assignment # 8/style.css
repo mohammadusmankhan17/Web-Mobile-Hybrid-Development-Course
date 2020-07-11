@@ -1,0 +1,29 @@
+
+body{
+    background-color:#2F4F4F !important;
+    text-align: center !important;
+    padding-top: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#box {
+    border-radius: 25px;
+    border: 2px solid #B22222;
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+.second{
+    display: inline-block;
+    background-color: black;
+    color: #B22222;
+    width: 100px;
+}
+.third{
+    padding-bottom: 10px;
+}
